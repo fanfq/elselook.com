@@ -27,8 +27,24 @@
 <link rel="canonical" href="https://www.elselook.com/about/index.html">
 <link rel="alternate" href="/atom.xml" title="另眼相看 - 用耳朵延伸思想的版图" type="application/atom+xml">
 
+<!-- 
 <script type="text/javascript"  src="https://res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
 <script>
+
+//这一点很坑，需要服务器端获取token，我们这种纯静态弄起来比较烦
+//大概的意思就是需要部署一个服务器与腾讯的服务器做交互，拿到的数据再转给前端
+https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/JS-SDK.html#8
+
+wx.config({
+  debug: false, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+  appId: '', // 必填，公众号的唯一标识
+  timestamp: , // 必填，生成签名的时间戳
+  nonceStr: '', // 必填，生成签名的随机串
+  signature: '',// 必填，签名
+  jsApiList: [] // 必填，需要使用的JS接口列表
+});
+
+
 wx.ready(function () {   
   wx.updateAppMessageShareData({ 
     title: '另眼相看 - 用耳朵延伸思想的版图',
@@ -40,8 +56,8 @@ wx.ready(function () {
     }
   })
 }); 
-
 </script>
+ -->
 
 
         
@@ -172,7 +188,7 @@ wx.ready(function () {
                         我们的播客 
                     </h1>
                     <div class="al_page_content_info_">
-                        创建时间: 2020-11-16  | 跟新时间：2020-11-20
+                        创建时间: 2020-11-16  | 跟新时间：2020-11-23
                     </div>
                     
                 </header>
@@ -204,7 +220,7 @@ wx.ready(function () {
 <div class="al_sidebar_author_cnt_">
 <div class="al_sidebar_author_info">
 <img class="al_sidebar_avatar" src="https://cdn.elselook.com/icon/tsai.jpg?imageView2/1/w/512/h/512">
-<strong>Tsai</strong>
+<strong>Kate</strong>
 <p>师范类本科毕业，曾任职小学教师，目前在一家商业地产供职。对娱乐八卦略有了解，平时喜欢吃喝玩乐。</p>
 </div>
 
@@ -212,7 +228,7 @@ wx.ready(function () {
 
 
 
-<h2 id="联系我们"><a href="#联系我们" class="headerlink" title="联系我们"></a>联系我们</h2><p><a href="mailto:&#x65;&#x6c;&#x73;&#x65;&#x6c;&#x6f;&#111;&#x6b;&#46;&#99;&#x6f;&#109;&#64;&#103;&#x6d;&#97;&#105;&#x6c;&#46;&#99;&#111;&#109;">&#x65;&#x6c;&#x73;&#x65;&#x6c;&#x6f;&#111;&#x6b;&#46;&#99;&#x6f;&#109;&#64;&#103;&#x6d;&#97;&#105;&#x6c;&#46;&#99;&#111;&#109;</a><br>除了我们的私人电话和微信，邮箱是唯一能够高效得到我们的反馈联系方式，强烈建议使用邮箱联系。<br>如果有必要也可以通过微信联系我们,微信号: fredtv</p>
+<h2 id="联系我们"><a href="#联系我们" class="headerlink" title="联系我们"></a>联系我们</h2><p><a href="mailto:&#101;&#108;&#x73;&#x65;&#108;&#111;&#x6f;&#107;&#x2e;&#99;&#111;&#x6d;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#101;&#108;&#x73;&#x65;&#108;&#111;&#x6f;&#107;&#x2e;&#99;&#111;&#x6d;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;</a><br>除了我们的私人电话和微信，邮箱是唯一能够高效得到我们的反馈联系方式，强烈建议使用邮箱联系。<br>如果有必要也可以通过微信联系我们,微信号: fredtv</p>
 <p>播客订阅地址: <a href="https://www.elselook.com/feed/podcast/">https://www.elselook.com/feed/podcast/</a></p>
 <p>在以下平台追踪我们<br>//todo</p>
 
