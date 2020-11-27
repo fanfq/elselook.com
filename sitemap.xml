@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.elselook.com/about/index.html</loc>
+    <loc>https://www.elselook.com/note/index.html</loc>
     
-    <lastmod>2020-11-23</lastmod>
+    <lastmod>2020-11-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.elselook.com/note/index.html</loc>
+    <loc>https://www.elselook.com/vol8.html</loc>
+    
+    <lastmod>2020-11-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.elselook.com/about/index.html</loc>
     
     <lastmod>2020-11-23</lastmod>
     
@@ -74,7 +81,7 @@
 
   <url>
     <loc>https://www.elselook.com/</loc>
-    <lastmod>2020-11-24</lastmod>
+    <lastmod>2020-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -82,21 +89,21 @@
   
   <url>
     <loc>https://www.elselook.com/tags/%E6%92%AD%E5%AE%A2/</loc>
-    <lastmod>2020-11-24</lastmod>
+    <lastmod>2020-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elselook.com/tags/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2020-11-24</lastmod>
+    <lastmod>2020-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elselook.com/tags/%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89/</loc>
-    <lastmod>2020-11-24</lastmod>
+    <lastmod>2020-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -105,7 +112,7 @@
   
   <url>
     <loc>https://www.elselook.com/categories/podcast/</loc>
-    <lastmod>2020-11-24</lastmod>
+    <lastmod>2020-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

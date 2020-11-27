@@ -6,7 +6,7 @@
   <link href="https://www.elselook.com/atom.xml" rel="self"/>
   
   <link href="https://www.elselook.com/"/>
-  <updated>2020-11-20T02:54:46.431Z</updated>
+  <updated>2020-11-25T05:41:48.691Z</updated>
   <id>https://www.elselook.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#8.我们的第一期节目，无准备，纯闲聊，各种适应</title>
+    <link href="https://www.elselook.com/vol8.html"/>
+    <id>https://www.elselook.com/vol8.html</id>
+    <published>2020-11-25T02:46:26.000Z</published>
+    <updated>2020-11-25T05:41:48.691Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>这是我们的第一期节目，录制的比较随意。</p><p>没有做任何的准备，纯粹闲聊，更多的是为了适应两人的合作。</p><p>还有很多地方需要优化，好在整体的效果还不错，至少声音能用。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    <content src="https://cdn.elselook.com/icon/512.jpg" type="image"/>
+    
+    
+    <category term="podcast" scheme="https://www.elselook.com/categories/podcast/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>#7.我们的Podcast频道[另眼相看]正式出炉，我们会努力做好</title>
