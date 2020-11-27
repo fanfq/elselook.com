@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.elselook.com/about/index.html</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.elselook.com/note/index.html</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.elselook.com/vol8.html</loc>
     
     <lastmod>2020-11-27</lastmod>
@@ -12,20 +26,6 @@
     <loc>https://www.elselook.com/about/devices.html</loc>
     
     <lastmod>2020-11-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.elselook.com/about/index.html</loc>
-    
-    <lastmod>2020-11-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.elselook.com/note/index.html</loc>
-    
-    <lastmod>2020-11-25</lastmod>
     
   </url>
   
