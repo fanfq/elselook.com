@@ -6,7 +6,7 @@
   <link href="https://www.elselook.com/atom.xml" rel="self"/>
   
   <link href="https://www.elselook.com/"/>
-  <updated>2020-12-04T02:47:09.452Z</updated>
+  <updated>2020-12-15T03:10:57.934Z</updated>
   <id>https://www.elselook.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#10.苹果m1芯片打破传统了吗？源自我的误解</title>
+    <link href="https://www.elselook.com/vol10.html"/>
+    <id>https://www.elselook.com/vol10.html</id>
+    <published>2020-12-15T02:55:41.000Z</published>
+    <updated>2020-12-15T03:10:57.934Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>苹果 one more thing 发布会上发布了三台搭载arm架构的m1芯片电脑。</p><p>现在看来苹果应该是早有打算弃用intel的cpu，任何一家有野性的企业都不想自己的产品受制于人，所有核心技术都得自己掌控。我个人感觉，m1芯片前身肯定已经在ipad iphone中迭代了好几次了，特别是结合ai神经网络芯片的加持，m1芯片突出的性能我一点都不意外。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    <content src="https://cdn.elselook.com/icon/fredtalk_1024.jpg" type="image"/>
+    
+    
+    <category term="podcast" scheme="https://www.elselook.com/categories/podcast/"/>
+    
+    
+    <category term="apple" scheme="https://www.elselook.com/tags/apple/"/>
+    
+    <category term="m1" scheme="https://www.elselook.com/tags/m1/"/>
+    
+  </entry>
   
   <entry>
     <title>#9.都2020年了,我却还在安利Gmail和Chrome浏览器</title>
