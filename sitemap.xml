@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.elselook.com/vol11.html</loc>
+    
+    <lastmod>2021-01-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.elselook.com/vol10.html</loc>
     
     <lastmod>2020-12-15</lastmod>
@@ -95,7 +102,7 @@
 
   <url>
     <loc>https://www.elselook.com/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,42 +110,63 @@
   
   <url>
     <loc>https://www.elselook.com/tags/%E6%92%AD%E5%AE%A2/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elselook.com/tags/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elselook.com/tags/%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elselook.com/tags/gmail/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elselook.com/tags/apple/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elselook.com/tags/m1/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elselook.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elselook.com/tags/%E7%94%B5%E5%8A%A8%E8%BD%A6/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elselook.com/tags/%E7%A4%BE%E4%BC%9A%E7%84%A6%E8%99%91/</loc>
+    <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -147,7 +175,7 @@
   
   <url>
     <loc>https://www.elselook.com/categories/podcast/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
